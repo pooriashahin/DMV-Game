@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - Tire
+  - Astroid
+  - CarObject
+  - 25spped
+  - 50speed
+  - 75speed
+  - UnlimitedSpeed
+  - 70speed
+  - 25speed
+  - Buttons
+  - signs
+  - Battery
+  - Dummy
+  - AstridHitWarning
+  - PowerUpWarning
+  - Notification
+  - SpeedingWarning
+  - LowBatteryWarning
+  - HitAndRun
+  - SpeedLimitNotification
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Sign
+  - FirstBackground
+  - SecondBackground
+  - ThirdBackground
+  - FourthBackground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 2929397907
+    locked: 0
+  - name: ThirdBackround
+    uniqueID: 177587497
+    locked: 0
+  - name: SecondBackround
+    uniqueID: 1095719487
+    locked: 0
+  - name: FirstBackround
+    uniqueID: 4090896895
+    locked: 0
+  - name: Sign
+    uniqueID: 1587815297
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Notifications
+    uniqueID: 1675970163
+    locked: 0
+  - name: MainCanvas
+    uniqueID: 61575523
+    locked: 0

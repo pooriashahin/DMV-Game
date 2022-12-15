@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: 552cde7f13f554853825e6ef5251ea0c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_0"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1045
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8afdc61ce0f449cbc0c4493673e67d
+      internalID: 1856379159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_1"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1045
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705129dc527534d2db11a130ae4bd934
+      internalID: -908114443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_2"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1045
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8604b9bac410b4508a4003af053d7908
+      internalID: -1804650308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_3"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1045
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9370bdc5917d24877a1f49e9c41db742
+      internalID: -1646486493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_4"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 942
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7590a631c34031a1db5bd00ac13d1
+      internalID: -368437003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_5"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 942
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793231ffcce724193af4297f38ee175b
+      internalID: -1252870341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_6"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 942
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940ae6e083ce460f8d5fbf421bdc283
+      internalID: -522348354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_7"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 942
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3a7b105d9ef43ac9a9ac8381962a21
+      internalID: 1978176979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_8"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 836
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15086172980404fabac464461d502d
+      internalID: -1999087976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_9"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 836
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df19cfc2931c5403cbc6f4a5f0f4e966
+      internalID: -585560669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_10"
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 836
+        width: 207
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d3259ee17a4b43aa5b56be1a940dc
+      internalID: 844102364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_11"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 836
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1945002009404f1d82d6f61650d509a
+      internalID: -1869328467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_12"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 730
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca87c790d0b4fda8fe27440c42910e
+      internalID: 1417191709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_13"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 730
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2647c0e34f97414b98c97298b1b1e56
+      internalID: -1143945725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_14"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 730
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c64fe471c7bc474696bb94fca528131
+      internalID: 597237913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_15"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 730
+        width: 206
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0ee47772c0949d290934fcb3fe8dca
+      internalID: -1830941440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_16"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 432
+        width: 80
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0013ecd7cf024d25aabd017a87db90a
+      internalID: 583273464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_17"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 432
+        width: 80
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d6d9dc0af2b4ab3a1120f3702a7b2b
+      internalID: 1234275085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_18"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 433
+        width: 80
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4263cdbe0ff4d4d298961b4b7c40c1be
+      internalID: 1024808190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_19"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 434
+        width: 80
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cd0503af1a54ed3a9b46fec3437cdc
+      internalID: 62036305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_20"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 432
+        width: 80
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239ad40c9041748629100c7b07fb2ca8
+      internalID: 1642659777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_21"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 432
+        width: 80
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7205c09b5887c43f9bfb826b8258372f
+      internalID: 1358657659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_22"
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 433
+        width: 80
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cd939ab22884525906feea276287c9
+      internalID: 850961182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_23"
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 434
+        width: 80
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3099371c2412442b1afeb327de805c1d
+      internalID: -731237779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_24"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 162
+        width: 79
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31497f7ca27b4bb6a77c36ab1e3f171
+      internalID: -1213167418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_25"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 162
+        width: 79
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef3fe941915d49faa117d62bf9730f1
+      internalID: -1827242436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_26"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 163
+        width: 79
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147fe473de1d5489680aa06a73bc0f28
+      internalID: 777260761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_27"
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 163
+        width: 79
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65674aa2015554669a935bcaff8c31c0
+      internalID: -391872852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_28"
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 162
+        width: 80
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e2ffb5612e4673bd583b807756737
+      internalID: -2082128826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_29"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 163
+        width: 80
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26304219cf9d4438b8b63ee4948e7a9b
+      internalID: 1139932360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_30"
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 163
+        width: 80
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddb2ce29450d49f18f3cf652738cd30
+      internalID: 812617157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_31"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 163
+        width: 81
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029f384697e114f408a8b8a266407e03
+      internalID: 866178471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_32"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 41
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e0e9e722af4ac991fc833f2e201f6
+      internalID: -1943883040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_33"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 41
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ac02a5a22d14ad1811c6f2035fb7be
+      internalID: 607318808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_34"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 41
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a47e4f945f5c4bd19a76927d0915826
+      internalID: -624121695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_35"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 41
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8678589fb15428eb463a36a2516dc8
+      internalID: -1076718374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_36"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 36
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b30a1885d2046058bdd348f2d0a552
+      internalID: 547567236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_37"
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3256a986cd2548f9b843015b3943f6c
+      internalID: -117334082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_38"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 41
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016650ede0bdb40bba6fe5b015b5ad0e
+      internalID: 1467068888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_39"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04ee2c8b1b84139bd50628e84d44dd
+      internalID: 2065423345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_40"
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54824548a69484eec8fc82afee8db733
+      internalID: -707344023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_41"
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 36
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2c897bd4f7848b587521c14fe912cf
+      internalID: 1687088669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014flat green battery material_3468901_42"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 35
+        width: 116
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0208f6dcef3ab46478e8eb4275aa682d
+      internalID: 1438842778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014flat green battery material_3468901_6": -522348354
+      "\u2014Pngtree\u2014flat green battery material_3468901_9": -585560669
+      "\u2014Pngtree\u2014flat green battery material_3468901_3": -1646486493
+      "\u2014Pngtree\u2014flat green battery material_3468901_23": -731237779
+      "\u2014Pngtree\u2014flat green battery material_3468901_32": -1943883040
+      "\u2014Pngtree\u2014flat green battery material_3468901_38": 1467068888
+      "\u2014Pngtree\u2014flat green battery material_3468901_21": 1358657659
+      "\u2014Pngtree\u2014flat green battery material_3468901_13": -1143945725
+      "\u2014Pngtree\u2014flat green battery material_3468901_18": 1024808190
+      "\u2014Pngtree\u2014flat green battery material_3468901_2": -1804650308
+      "\u2014Pngtree\u2014flat green battery material_3468901_4": -368437003
+      "\u2014Pngtree\u2014flat green battery material_3468901_35": -1076718374
+      "\u2014Pngtree\u2014flat green battery material_3468901_24": -1213167418
+      "\u2014Pngtree\u2014flat green battery material_3468901_37": -117334082
+      "\u2014Pngtree\u2014flat green battery material_3468901_5": -1252870341
+      "\u2014Pngtree\u2014flat green battery material_3468901_33": 607318808
+      "\u2014Pngtree\u2014flat green battery material_3468901_29": 1139932360
+      "\u2014Pngtree\u2014flat green battery material_3468901_19": 62036305
+      "\u2014Pngtree\u2014flat green battery material_3468901_27": -391872852
+      "\u2014Pngtree\u2014flat green battery material_3468901_10": 844102364
+      "\u2014Pngtree\u2014flat green battery material_3468901_22": 850961182
+      "\u2014Pngtree\u2014flat green battery material_3468901_31": 866178471
+      "\u2014Pngtree\u2014flat green battery material_3468901_1": -908114443
+      "\u2014Pngtree\u2014flat green battery material_3468901_40": -707344023
+      "\u2014Pngtree\u2014flat green battery material_3468901_39": 2065423345
+      "\u2014Pngtree\u2014flat green battery material_3468901_28": -2082128826
+      "\u2014Pngtree\u2014flat green battery material_3468901_30": 812617157
+      "\u2014Pngtree\u2014flat green battery material_3468901_20": 1642659777
+      "\u2014Pngtree\u2014flat green battery material_3468901_14": 597237913
+      "\u2014Pngtree\u2014flat green battery material_3468901_34": -624121695
+      "\u2014Pngtree\u2014flat green battery material_3468901_26": 777260761
+      "\u2014Pngtree\u2014flat green battery material_3468901_36": 547567236
+      "\u2014Pngtree\u2014flat green battery material_3468901_41": 1687088669
+      "\u2014Pngtree\u2014flat green battery material_3468901_17": 1234275085
+      "\u2014Pngtree\u2014flat green battery material_3468901_42": 1438842778
+      "\u2014Pngtree\u2014flat green battery material_3468901_8": -1999087976
+      "\u2014Pngtree\u2014flat green battery material_3468901_16": 583273464
+      "\u2014Pngtree\u2014flat green battery material_3468901_25": -1827242436
+      "\u2014Pngtree\u2014flat green battery material_3468901_12": 1417191709
+      "\u2014Pngtree\u2014flat green battery material_3468901_15": -1830941440
+      "\u2014Pngtree\u2014flat green battery material_3468901_7": 1978176979
+      "\u2014Pngtree\u2014flat green battery material_3468901_0": 1856379159
+      "\u2014Pngtree\u2014flat green battery material_3468901_11": -1869328467
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
