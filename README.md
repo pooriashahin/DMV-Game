@@ -46,3 +46,7 @@ Optional:
 * [Dentists in Bronx](https://www.doctorsnetwork.com/dentists-bronx-ny)
 * [Dentists in Atlanta](https://www.doctorsnetwork.com/dentists-atlanta-ga)
 * [Dentists in Miami](https://www.doctorsnetwork.com/dentists-miami-fl)
+* [Dentists in Brooklyn Heights](http://www.1stidental.com)
+* [Dentists in Fort Greene](http://www.1stidental.com)
+* [Dental Implants in Park Slope](http://www.1stidental.com/services/oral-surgery/dental-implants/)
+* [Dentists in Williamsburg](http://www.1stidental.com/patient-info/faqs/)
